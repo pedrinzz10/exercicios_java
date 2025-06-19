@@ -18,7 +18,8 @@ Repositório com exercícios de lógica e programação em Java, focado no desen
 |--------------------------|-----------------------------------------------|
 | `ParOuImpar.java`        | Exibe pares ou ímpares entre dois números.    |
 | `CalculadoraIMC.java`    | Calcula o IMC e mostra a faixa do resultado.  |
-| `BancoVirtual.java`      | Simula um sistema bancário no terminal.       |
+| `CaluladoraDeTabuada.java`      | Calcula a tabuada do número inserido.       |
+| `DivisaoComCondicao.java`      | Efetua a divisão com uma condição específica.       |
 
 ---
 
