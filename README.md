@@ -20,6 +20,7 @@ Repositório com exercícios de lógica e programação em Java, focado no desen
 | `CalculadoraIMC.java`    | Calcula o IMC e mostra a faixa do resultado.  |
 | `CaluladoraDeTabuada.java`      | Calcula a tabuada do número inserido.       |
 | `DivisaoComCondicao.java`      | Efetua a divisão com uma condição específica.       |
+| `BancoVirtual.java`      | Simula um Banco virtual simples.       |
 
 ---
 
